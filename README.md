@@ -10,7 +10,7 @@
 
 PicoSH is a basic shell designed to give you more control about your device
 
-## Featurs
+## Features
 - Browse through FS using 'cd' and 'ls'.
 - Delete files using 'rm'.
 - Move files using 'mv'.
