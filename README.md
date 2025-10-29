@@ -1,4 +1,4 @@
-# PicoSH
+# PicoSH v1.00 Raspberry Pi Pico Shell
 
 ```
     ____  _           _____ __  __
