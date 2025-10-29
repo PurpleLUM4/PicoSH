@@ -1,6 +1,6 @@
 # PicoSH
 
-<img src="https://de.farnell.com/productimages/large/en_GB/3643332-40.jpg">
+[pico](https://media.rs-online.com/Y2122162-01.jpg)
 
 PicoSH is a basic shell designed to give you more control about your device
 
