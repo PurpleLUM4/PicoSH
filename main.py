@@ -2,6 +2,13 @@ import os
 import sys
 import time
 
+try:
+    if sys.implementation.name != "micropython" and sys.implementation.name != "circuitpython":
+        print("WARNING Unsupported platform! This shell was designed to only run on micro- and circuitpython\n")
+except:
+    print("WARNING Unsupported platform! This shell was designed to only run on micro- and circuitpython\n")
+
+
 def picosh(command : str) -> None:
     if command.strip() == "":
         return
