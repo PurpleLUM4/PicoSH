@@ -1,5 +1,13 @@
 # PicoSH
 
+```
+    ____  _           _____ __  __
+   / __ \(_)________ / ___// / / /
+  / /_/ / / ___/ __ \\__ \/ /_/ / 
+ / ____/ / /__/ /_/ /__/ / __  /  
+/_/   /_/\___/\____/____/_/ /_/ 
+```
+
 PicoSH is a basic shell designed to give you more control about your device
 
 ## Featurs
