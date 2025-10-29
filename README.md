@@ -1,6 +1,6 @@
 # PicoSH
 
-[pico](https://media.rs-online.com/Y2122162-01.jpg)
+![pico](https://media.rs-online.com/Y2122162-01.jpg)
 
 PicoSH is a basic shell designed to give you more control about your device
 
