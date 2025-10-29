@@ -1,6 +1,6 @@
 # PicoSH
 
-![img](https://www.raspberrypi.com/app/uploads/2021/10/cropped-Raspberry-Pi-Favicon-100x100-1-150x150.png)
+<img src="https://www.raspberrypi.com/app/uploads/2021/10/cropped-Raspberry-Pi-Favicon-100x100-1-150x150.png" style="align: center">
 
 PicoSH is a basic shell designed to give you more control about your device
 
