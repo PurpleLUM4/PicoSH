@@ -19,4 +19,4 @@ PicoSH is a basic shell designed to give you more control about your device
 - A .PicoSH cfg in the root of your pico that executes on startup. (like .bashrc)
 
 ## Installation
-Put the main.py on your raspberry pi pico, it automaticly creates a .PicoSH cfg in the same directory.
+Put the main.py on the root of your raspberry pi pico, it automaticly creates a .PicoSH cfg in the same directory.
